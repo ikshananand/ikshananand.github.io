@@ -8,7 +8,6 @@ tags:
 - Existence🌅
 categories: 
 - 🦢Truth
-draft: false
 share: true
 disableComments: false
 ---
