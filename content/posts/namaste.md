@@ -2,6 +2,7 @@
 title: "Namaste"
 date: 2023-04-22T10:31:05+05:30
 draft: false
+share: true
 ---
 Namaste
 
