@@ -11,8 +11,12 @@
             "id": "582706c7db7415cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/Test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/posts/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/posts/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/posts/Test.md"
+              }
             }
           }
         ]
@@ -137,15 +145,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "582706c7db7415cd",
   "lastOpenFiles": [
+    "content/posts/namaste.md",
     "content/posts/Existence.md",
     "obsidian-files/Templates/_New Note .md",
-    "content/posts/namaste.md",
     "ikshananand.github.io",
     "obsidian-files/Templates/_Daily Trade Diary.md",
     "obsidian-files/Templates/Write Haiku .md",
