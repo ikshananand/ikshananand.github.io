@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "config.toml",
+                "file": "content/posts/The Beautiful Tragedy of The Self Sabotage.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "config.toml",
+                "file": "content/posts/The Beautiful Tragedy of The Self Sabotage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "config.toml",
+                "file": "content/posts/The Beautiful Tragedy of The Self Sabotage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "config.toml"
+                "file": "content/posts/The Beautiful Tragedy of The Self Sabotage.md"
               }
             }
           }
@@ -159,6 +159,8 @@
   },
   "active": "582706c7db7415cd",
   "lastOpenFiles": [
+    "config.toml",
+    "content/posts/The Beautiful Tragedy of The Self Sabotage.md",
     "content/posts/Test.md",
     "content/posts/namaste.md",
     "content/posts/Existence.md",
