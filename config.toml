@@ -13,8 +13,7 @@ title = "Ikshan Anand"
 author = "Ikshan Ananad"
 description = """ Ikshana means Perspective, 
 Ananda means Bliss. 
-Change in perspective, changes Life. 
-My work is to change a seeker's perspective, towards a Blissful Existence 🦢.
+Change in perspective, changes Life 🦢.
 """
 profilePicture = "images/logo.jpg"
 mainSections = ["posts"]
@@ -58,11 +57,11 @@ icon = "fas fa-envelope"
 title = "Email"
 url = "mailto:ikshananand@gmail.com"
 
-[[params.socialIcons]]
+#[[params.socialIcons]]
 #icon = "fa-solid fa-envelope-open-text"
-icon = "fa-solid fa-bell"
-title = "Substack"
-url = "https://substack.com/"
+#icon = "fa-solid fa-bell"
+#title = "Substack"
+#url = "https://substack.com/ikshananand"
 
 [taxonomies]
     category = "categories"
@@ -89,8 +88,6 @@ pygmentsCodefencesGuessSyntax = true
 [[related.indices]]
   name = 'tags'
   weight = 80
-
-
 
 [menu]
 
